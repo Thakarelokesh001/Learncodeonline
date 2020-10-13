@@ -22,7 +22,7 @@ export default function Home(){
         
         loadAllProducts();
         
-    }, []);
+    },[]);
 
     return (
         <div>
